@@ -54,7 +54,7 @@ I believe in clean code, continuous learning, and practical implementation.
 
 ---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdityaKumarBharadwaj)
 
 
 > *Clean code. Clear thinking. Real-world impact.*  
