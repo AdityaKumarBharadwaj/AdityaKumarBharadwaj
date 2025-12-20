@@ -1,49 +1,55 @@
-<h1 align="center">Hi, I'm Aditya Kumar 👋</h1>
-<h3 align="center">Web Development | Cloud Computing | BTech @ VIT Bhopal University</h3>
+# Hi 👋, I'm Aditya Kumar
 
-<p align="center">
-  Curious mind. Code enthusiast. Cricket lover.
+**Web Development | Machine Learning for Data Science**  
+BTech Computer Science @ VIT Bhopal University
+
+Curious mind • Code enthusiast • Cricket lover 🏏
+
+---
+
+## 👨‍💻 About Me
+
+I’m a Computer Science undergraduate focused on **web development** and building clean, scalable, and user-centric applications.
+
+Alongside this, I’m **learning and working on Machine Learning for Data Science**, exploring how data-driven models can solve real-world problems.
+
+I believe in clean code, continuous learning, and practical implementation.
+
+---
+
+## 🔭 Current Focus
+- Full-Stack Web Development  
+- Machine Learning for Data Science  
+- Building real-world, impact-driven projects  
+
+---
+
+## 🧰 Tech Stack
+
+### 🌐 Web Development
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="38"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="38"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38"/></a>
+  <a href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38"/></a>
+  <a href="https://nodejs.org/en/docs"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="38"/></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AdityaKumarBharadwaj&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+### 🤖 ML for Data Science
+<p align="left">
+  <a href="https://www.python.org/doc/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38"/></a>
+  <a href="https://numpy.org/doc/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="38"/></a>
+  <a href="https://pandas.pydata.org/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="38"/></a>
+  <a href="https://scikit-learn.org/stable/documentation.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="38"/></a>
 </p>
 
 ---
 
-### 👨‍💻 Who Am I?
-
-I'm a Computer Science undergrad passionate about turning ideas into interactive web applications. Whether it's front-end magic or cloud-based backend systems, I enjoy building solutions that are both clean and scalable.
-
-- 🔭 Currently exploring: **Full-Stack Web Development & Cloud Infrastructure**
-- 💡 Learning every day: **Next.js**, **Docker**, **DevOps**, and modern deployment strategies
-- 👯 Open to collaborating on impactful projects
-- ⚡ Outside code, you’ll find me on the cricket ground, chasing boundaries!
+## 📬 Get in Touch
+- 💼 **LinkedIn:** https://www.linkedin.com/in/aditya-kumar-8248a2293/
+- 📧 **Email:** adityakumarbharadwaj@gmail.com  
 
 ---
 
-### 🧰 Tools & Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,python,java,cpp,git,docker,github,linux,mongodb,postgres,vscode" />
-</p>
-
----
-
-### 📬 Get in Touch
-
-<p align="center">
-  <a href="mailto:kumarsinghaditya240@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/aditya-kumar-8248a2293/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>“I believe in clean code, continuous learning, and building real-world solutions that matter.”</i><br/>
-  <b>Let’s create something meaningful together.</b> 🚀
-</p>
+> *Clean code. Clear thinking. Real-world impact.*  
+> Let’s build something meaningful 🚀
