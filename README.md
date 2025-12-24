@@ -47,17 +47,17 @@ I believe in clean code, continuous learning, and practical implementation.
 
 ---
 ## 🔥 GitHub Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdityaKumarBharadwaj&theme=dark&hide_border=true)
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AdityaKumarBharadwaj&theme=github-dark&hide_border=true&cache_seconds=1800"
+       alt="GitHub Streak Stats"
+       onerror="this.style.display='none'" />
+</p>
 ## 📬 Get in Touch
 - 💼 **LinkedIn:** https://www.linkedin.com/in/aditya-kumar-8248a2293/
 - 📧 **Email:** adityakumarbharadwaj@gmail.com  
 
 
 ---
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdityaKumarBharadwaj)
-
 
 > *Clean code. Clear thinking. Real-world impact.*  
 > Let’s build something meaningful 🚀
