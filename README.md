@@ -52,9 +52,18 @@ I believe in clean code, continuous learning, and practical implementation.
        alt="GitHub Streak Stats"
        onerror="this.style.display='none'" />
 </p>
+
+---
 ## 📬 Get in Touch
-- 💼 **LinkedIn:** https://www.linkedin.com/in/aditya-kumar-8248a2293/
-- 📧 **Email:** adityakumarbharadwaj@gmail.com  
+<div align="center">
+  <a href="https://www.linkedin.com/in/aditya-kumar-8248a2293/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:adityakumarbharadwaj@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
 
 
 ---
