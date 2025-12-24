@@ -46,6 +46,8 @@ I believe in clean code, continuous learning, and practical implementation.
 </p>
 
 ---
+## 🔥 GitHub Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdityaKumarBharadwaj&theme=dark&hide_border=true)
 
 ## 📬 Get in Touch
 - 💼 **LinkedIn:** https://www.linkedin.com/in/aditya-kumar-8248a2293/
