@@ -40,16 +40,6 @@ Location  : Bhopal, India 🇮🇳
 Status    : Open to internships & collaborations
 ```
 
-I'm not chasing titles — I'm chasing *understanding*.
-
-Whether it's wiring up a MERN app from scratch, training a regression model on messy data, or debugging why a `useEffect` fires twice, I care about **knowing the why**, not just the what.
-
-Currently spending most of my time building full-stack projects, exploring data science fundamentals, and studying how large systems are designed. I think the best developers are the ones who are still curious after two years — I'm working on being one of them.
-
-🏏 When I'm not at a keyboard, you'll find me watching cricket or arguing about it.
-
-<br clear="right"/>
-
 ---
 
 ## 🔨 Tech I Work With
@@ -142,19 +132,6 @@ Trained a regression model on housing data to predict prices based on location, 
 </table>
 
 ---
-
-## 📈 Learning Roadmap
-
-```
-Current Focus ──────────────────────────────────────────────────────────► Future
-
-  ✅ MERN Stack       ✅ ML Fundamentals     🔄 DSA & Patterns   ⏳ System Design
-  ✅ REST APIs         ✅ EDA + Regression    🔄 TypeScript       ⏳ DevOps & CI/CD
-  ✅ Git & GitHub      ✅ Data Visualization  🔄 Next.js          ⏳ Cloud (AWS/GCP)
-```
-
-> I move linearly — one solid foundation before the next floor. No skipping.
-
 ---
 
 ## 📊 GitHub Stats
@@ -184,23 +161,6 @@ Current Focus ──────────────────────
 </div>
 
 ---
-
-## 💭 Why I Build
-
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="240" alt="thinking gif"/>
-
-I didn't get into programming because it was trending. I got into it because I realized you could **build something from nothing** — no materials, no factory, no budget — just a machine and an idea.
-
-That still gets me.
-
-The feeling of watching a UI come together, or seeing a model's accuracy climb after tuning, or finding the one bug that's been breaking everything for three hours — it doesn't get old.
-
-I'm not looking for easy wins. I want to work on hard problems with people who care about getting things right. I want to write code that someone else can read a year later and actually understand.
-
-That's the standard I hold myself to. Still getting there.
-
-<br clear="right"/>
-
 ---
 
 ## 📬 Let's Talk
