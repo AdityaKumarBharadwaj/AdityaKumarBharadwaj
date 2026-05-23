@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,50:1a1f35,100:0d1117&height=160&section=header&text=Aditya%20Kumar&fontColor=58A6FF&fontSize=52&fontAlignY=55&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%A2%20ML%20Explorer%20%E2%80%A2%20VIT%20Bhopal&descFontColor=8b949e&descSize=15&descAlignY=78" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,50:1a1f35,100:0d1117&height=160&section=header&text=Aditya%20Kumar&fontColor=58A6FF&fontSize=52&fontAlignY=55&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20AWS%20Certified%20Solutions%20Architect&descFontColor=8b949e&descSize=15&descAlignY=78" width="100%"/>
 
 </div>
 
@@ -28,7 +28,7 @@
 name     : Aditya Kumar
 degree   : B.Tech Computer Science
 college  : VIT Bhopal University
-location : Ranchi, India 🇮🇳
+location : Bhopal, India 🇮🇳
 focus    : Full-Stack (MERN) + Machine Learning
 status   : Open to internships & collaborations
 contact  : adityakumarbharadwaj@gmail.com
@@ -108,7 +108,7 @@ Kanban board with drag & drop, algorithmic complexity tagging (`O(1)` → `O(n²
 
 > A community-driven platform where neighbors trade skills using **Time Credits** instead of money.
 
-Give 1 hour of help → earn 1 Time Credit. Full MERN stack with JWT auth, protected routes, skill listings with categories and locations, owner-only delete controls, and real-time community feed.
+Give 1 hour of help → earn 1 Time Credit to spend later. Full MERN stack with JWT auth, protected routes, skill listings by category and location, and a real-time community feed.
 
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -122,18 +122,19 @@ Give 1 hour of help → earn 1 Time Credit. Full MERN stack with JWT auth, prote
 <tr>
 <td width="50%" valign="top">
 
-<h3>🤝 <a href="https://github.com/AdityaKumarBharadwaj/SahayNGO">SahayNGO — NGO Management Platform</a></h3>
+<h3>🤝 <a href="https://github.com/AdityaKumarBharadwaj/Saahaya">Saahaya — NGO Donation Platform</a></h3>
 
-> A backend-focused platform to help NGOs manage operations, volunteers, and outreach — digitally.
+> *सहाय — Sanskrit for "help". A full-stack platform connecting verified NGOs with donors across India.*
 
-Built to address the operational gaps non-profits face when scaling. RESTful backend with structured data models for volunteer coordination, campaign management, and resource tracking.
+Secure Razorpay payments (UPI, Cards, NetBanking), auto-generated 80G tax receipts as PDFs, admin NGO verification workflow, role-based access (Donor / NGO / Admin), Cloudinary document storage, and real-time impact tracking. Atomic receipt number generation ensures no race conditions under load.
 
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Razorpay](https://img.shields.io/badge/-Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=3395FF)
+![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 
-💡 *Building for impact, not just portfolios.*
+💡 *India has 3.3M NGOs. Most donors can't verify a single one. Saahaya fixes that.*
 
 </td>
 <td width="50%" valign="top">
@@ -142,7 +143,7 @@ Built to address the operational gaps non-profits face when scaling. RESTful bac
 
 > A Python CLI that checks, installs, and manages dependencies for eSim (FOSSEE, IIT Bombay's open-source EDA tool).
 
-Detects installed vs missing packages, compares versions against minimum requirements, auto-installs via apt & pip, dry-run mode, timestamped logs, and CI-compatible exit codes. Config-driven — no code changes needed to add tools.
+Detects installed vs missing packages, compares versions against minimum requirements, auto-installs via apt & pip, dry-run mode, timestamped logs, and CI-compatible exit codes. Config-driven — no code changes needed to add new tools.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
