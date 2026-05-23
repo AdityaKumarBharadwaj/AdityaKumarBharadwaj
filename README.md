@@ -1,155 +1,175 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Aditya%20Kumar&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=I%20build%20things%20for%20the%20web.%20And%20sometimes%2C%20I%20make%20data%20talk.&descSize=16&descAlignY=60&descColor=cdd9e5" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,50:1a1f35,100:0d1117&height=160&section=header&text=Aditya%20Kumar&fontColor=58A6FF&fontSize=52&fontAlignY=55&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%A2%20ML%20Explorer%20%E2%80%A2%20VIT%20Bhopal&descFontColor=8b949e&descSize=15&descAlignY=78" width="100%"/>
+
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%7C+MERN+Stack;Machine+Learning+Explorer;Computer+Science+%40+VIT+Bhopal;Building+real+things+that+solve+real+problems." alt="Typing SVG" />
-  </a>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=580&lines=Building+production-ready+full-stack+apps;Exploring+ML+%26+data+science+pipelines;Open+to+internships+%26+collaborations+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-kumar-8248a2293/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityakumarbharadwaj@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=AdityaKumarBharadwaj&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)](https://github.com/AdityaKumarBharadwaj)
+
 </div>
 
 <br/>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/aditya-kumar-8248a2293/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:adityakumarbharadwaj@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=AdityaKumarBharadwaj&style=flat-square&color=58A6FF&label=visitors"/>
-</div>
+---
+
+<img align="right" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaKumarBharadwaj&layout=donut&theme=github_dark&hide_border=true&title_color=58A6FF&langs_count=6&custom_title=Languages"/>
+
+### `> whoami`
+
+```yaml
+name     : Aditya Kumar
+degree   : B.Tech Computer Science
+college  : VIT Bhopal University
+location : Ranchi, India 🇮🇳
+focus    : Full-Stack (MERN) + Machine Learning
+status   : Open to internships & collaborations
+contact  : adityakumarbharadwaj@gmail.com
+```
+
+<br clear="right"/>
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
-
-## 〉 whoami
-
-```bash
-$ cat about.txt
-```
-
-```
-Name      : Aditya Kumar
-Role      : Full-Stack Developer + ML Learner
-University: VIT Bhopal University — B.Tech CS
-Location  : Bhopal, India 🇮🇳
-Status    : Open to internships & collaborations
-```
-
----
-
-## 🔨 Tech I Work With
-
-> Tools are just tools — but the right ones, used well, make all the difference.
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Frameworks & Libraries**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-
-**Databases & Tools**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-> Projects I built because I wanted the thing to exist — not just for my portfolio.
+## ⚡ Tech Arsenal
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top" width="33%">
 
-### 📝 DevBoard — Full-Stack Task Manager
-**The problem:** Most to-do apps are either too simple or bloated with features nobody asked for.
+**🌐 Frontend**
+<br/>
 
-Built a full-stack task management app with user authentication, priority tagging, and deadline tracking. The UI is clean and fast — no tutorial clutter.
-
-`React` `Node.js` `Express` `MongoDB` `JWT Auth`
-
-**What I learned:** REST API design, JWT authentication flow, and how to structure a React app that doesn't become a mess after 500 lines.
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 DataLens — ML Data Exploration Tool
-**The problem:** EDA involves a lot of repetitive, copy-pasted code that slows down actual thinking.
-
-Built a Python tool that auto-generates summary statistics, correlation heatmaps, and missing value reports from any CSV — so analysis can start sooner.
-
-`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`
-
-**What I learned:** How to write reusable data pipelines and why data cleaning takes longer than the model ever does.
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td valign="top" width="33%">
 
-### 🔗 LinkVault — Bookmark Manager Web App
-**The problem:** Browser bookmarks are a graveyard nobody visits.
+**🔧 Backend & DB**
+<br/>
 
-Built a minimal bookmark manager where users can save, tag, and search links — with a clean card-based UI and instant search. No login friction.
-
-`React` `LocalStorage API` `CSS Modules`
-
-**What I learned:** State management without Redux, and how much you can do with browser-native APIs before reaching for a library.
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 </td>
-<td width="50%" valign="top">
+<td valign="top" width="33%">
 
-### 🧠 PricePredict — House Price ML Model
-**The problem:** Real estate pricing lacks transparency for buyers.
+**🤖 ML & Data**
+<br/>
 
-Trained a regression model on housing data to predict prices based on location, size, and age. Compared Linear Regression vs Random Forest — documented results with visualizations.
-
-`Python` `Scikit-Learn` `Pandas` `Matplotlib`
-
-**What I learned:** Feature engineering matters more than algorithm selection. Outliers will ruin your R² score every single time.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 </td>
 </tr>
 </table>
 
 ---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🗂️ <a href="https://github.com/AdityaKumarBharadwaj/DevBoard">DevBoard — Developer OS</a></h3>
+
+> A full-stack project management platform built *for developers*, not project managers.
+
+Kanban board with drag & drop, algorithmic complexity tagging (`O(1)` → `O(n²)`), syntax-highlighted code snippets inside tasks, Markdown descriptions, sprint planning, and a technical notes workspace — all in one unified dev environment.
+
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+💡 *Built because Jira is for PMs. This one speaks engineer.*
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🔄 <a href="https://github.com/AdityaKumarBharadwaj/SkillSwap">SkillSwap — Skill Exchange Platform</a></h3>
+
+> A community-driven platform where neighbors trade skills using **Time Credits** instead of money.
+
+Give 1 hour of help → earn 1 Time Credit. Full MERN stack with JWT auth, protected routes, skill listings with categories and locations, owner-only delete controls, and real-time community feed.
+
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
+
+💡 *"Time is the new currency." — Built around that idea.*
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🤝 <a href="https://github.com/AdityaKumarBharadwaj/SahayNGO">SahayNGO — NGO Management Platform</a></h3>
+
+> A backend-focused platform to help NGOs manage operations, volunteers, and outreach — digitally.
+
+Built to address the operational gaps non-profits face when scaling. RESTful backend with structured data models for volunteer coordination, campaign management, and resource tracking.
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+💡 *Building for impact, not just portfolios.*
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🔧 <a href="https://github.com/AdityaKumarBharadwaj/esim-tool-manager">eSim Tool Manager — CLI Dependency Tool</a></h3>
+
+> A Python CLI that checks, installs, and manages dependencies for eSim (FOSSEE, IIT Bombay's open-source EDA tool).
+
+Detects installed vs missing packages, compares versions against minimum requirements, auto-installs via apt & pip, dry-run mode, timestamped logs, and CI-compatible exit codes. Config-driven — no code changes needed to add tools.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![pytest](https://img.shields.io/badge/-pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+
+💡 *Born from an hour lost to a silent ngspice crash. Built so others don't lose that hour.*
+
+</td>
+</tr>
+</table>
+
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AdityaKumarBharadwaj&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&title_color=58A6FF&icon_color=58A6FF" height="175"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaKumarBharadwaj&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&langs_count=7" height="175"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AdityaKumarBharadwaj&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e&bg_color=0d1117"/>
 
-</div>
+<br/><br/>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AdityaKumarBharadwaj&theme=github-dark-blue&hide_border=true&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak"/>
-</div>
+<img src="https://streak-stats.demolab.com?user=AdityaKumarBharadwaj&theme=dark&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e&stroke=1a1f35"/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaKumarBharadwaj&theme=github-compact&hide_border=true&area=true&color=58A6FF&line=58A6FF&point=ffffff" width="95%" alt="contribution graph"/>
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaKumarBharadwaj&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&hide_border=true&area=true&area_color=58A6FF" width="96%"/>
+
 </div>
 
 ---
@@ -157,36 +177,27 @@ Trained a regression model on housing data to predict prices based on location, 
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdityaKumarBharadwaj&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=6" alt="trophies"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=AdityaKumarBharadwaj&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
+
 </div>
 
 ---
----
 
-## 📬 Let's Talk
-
-Open to internship opportunities, project collaborations, cold emails about interesting ideas, and good conversations about tech — or cricket.
+## 💬 Let's Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/aditya-kumar-8248a2293/">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:adityakumarbharadwaj@gmail.com">
-    <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
+
+*Open to internships · project collabs · interesting conversations about tech or cricket*
 
 <br/>
 
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="random dev quote"/>
-</div>
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-kumar-8248a2293/)
+&nbsp;&nbsp;
+[![Gmail](https://img.shields.io/badge/Drop%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityakumarbharadwaj@gmail.com)
 
 <br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=100&section=footer" width="100%"/>
+
 </div>
