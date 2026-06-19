@@ -17,7 +17,7 @@
  </br>
 [![LeetCode](https://img.shields.io/badge/LeetCode-@Aditya__Kumar__24-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Aditya_Kumar_24/)
 &nbsp;
-[![GeeksforGeeks](https://img.shields.io/badge/GFG-@kumarsinghp2bm-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/kumarsinghp2bm)
+[![GeeksforGeeks](https://img.shields.io/badge/GFG-@kumarsinghp2bm-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/kumarsinghp2bm?tab=activity)
 </div>
 
 <br/>
