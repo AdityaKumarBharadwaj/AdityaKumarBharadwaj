@@ -13,7 +13,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-kumar-8248a2293/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityakumarbharadwaj@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=AdityaKumarBharadwaj&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)](https://github.com/AdityaKumarBharadwaj)
-
+ </br>
+ </br>
+[![LeetCode](https://img.shields.io/badge/LeetCode-@Aditya__Kumar__24-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Aditya_Kumar_24/)
+&nbsp;
+[![GeeksforGeeks](https://img.shields.io/badge/GFG-@kumarsinghp2bm-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/kumarsinghp2bm)
 </div>
 
 <br/>
