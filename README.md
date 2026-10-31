@@ -76,48 +76,6 @@ contact  : adityakumarbharadwaj@gmail.com
 <br/>
 <br/>
 
-<h2 align="center">🚀 Featured Projects</h2>
-
-<br/>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<br/>
-<h3>🗂️ <a href="https://github.com/AdityaKumarBharadwaj/DevBoard">DevBoard</a></h3>
-<p>Project management built <i>for developers</i>: Kanban board, complexity tagging, code snippets in tasks, and sprint planning.</p>
-<p><img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/-Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/></p>
-<br/>
-</td>
-<td width="50%" valign="top">
-<br/>
-<h3>🔄 <a href="https://github.com/AdityaKumarBharadwaj/SkillSwap">SkillSwap</a></h3>
-<p>Community platform where neighbors trade skills using <b>Time Credits</b> instead of money.</p>
-<p><img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/-Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/></p>
-<br/>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<br/>
-<h3>🤝 <a href="https://github.com/AdityaKumarBharadwaj/Saahaya">Saahaya</a></h3>
-<p>NGO donation platform with Razorpay payments, auto-generated 80G tax receipts, and admin verification.</p>
-<p><img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/-Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=3395FF" alt="Razorpay"/></p>
-<br/>
-</td>
-<td width="50%" valign="top">
-<br/>
-<h3>🔧 <a href="https://github.com/AdityaKumarBharadwaj/esim-tool-manager">eSim Tool Manager</a></h3>
-<p>Python CLI that checks, installs, and manages dependencies for eSim (FOSSEE, IIT Bombay).</p>
-<p><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/></p>
-<br/>
-</td>
-</tr>
-</table>
-
-<br/>
-<br/>
-
 <h2 align="center">🌍 Open Source Contributions</h2>
 
 <br/>
@@ -208,6 +166,48 @@ contact  : adityakumarbharadwaj@gmail.com
 <br/>
 <sub>NPTEL Elite · IIT Kharagpur · 93% · Top 5%</sub>
 <br/><br/>
+</td>
+</tr>
+</table>
+
+<br/>
+<br/>
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<br/>
+<h3>🗂️ <a href="https://github.com/AdityaKumarBharadwaj/DevBoard">DevBoard</a></h3>
+<p>Project management built <i>for developers</i>: Kanban board, complexity tagging, code snippets in tasks, and sprint planning.</p>
+<p><img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/-Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/></p>
+<br/>
+</td>
+<td width="50%" valign="top">
+<br/>
+<h3>🔄 <a href="https://github.com/AdityaKumarBharadwaj/SkillSwap">SkillSwap</a></h3>
+<p>Community platform where neighbors trade skills using <b>Time Credits</b> instead of money.</p>
+<p><img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/-Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/></p>
+<br/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<br/>
+<h3>🤝 <a href="https://github.com/AdityaKumarBharadwaj/Saahaya">Saahaya</a></h3>
+<p>NGO donation platform with Razorpay payments, auto-generated 80G tax receipts, and admin verification.</p>
+<p><img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/-Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=3395FF" alt="Razorpay"/></p>
+<br/>
+</td>
+<td width="50%" valign="top">
+<br/>
+<h3>🔧 <a href="https://github.com/AdityaKumarBharadwaj/esim-tool-manager">eSim Tool Manager</a></h3>
+<p>Python CLI that checks, installs, and manages dependencies for eSim (FOSSEE, IIT Bombay).</p>
+<p><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/></p>
+<br/>
 </td>
 </tr>
 </table>
