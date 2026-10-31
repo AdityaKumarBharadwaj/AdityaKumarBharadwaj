@@ -91,70 +91,137 @@ contact  : adityakumarbharadwaj@gmail.com
 <tr>
 <td width="50%" valign="top">
 
-<h3>🗂️ <a href="https://github.com/AdityaKumarBharadwaj/DevBoard">DevBoard — Developer OS</a></h3>
+### 🗂️ [DevBoard](https://github.com/AdityaKumarBharadwaj/DevBoard)
+Project management built *for developers*: Kanban board, complexity tagging (`O(1)` → `O(n²)`), code snippets in tasks, and sprint planning.
 
-> A full-stack project management platform built *for developers*, not project managers.
-
-Kanban board with drag & drop, algorithmic complexity tagging (`O(1)` → `O(n²)`), syntax-highlighted code snippets inside tasks, Markdown descriptions, sprint planning, and a technical notes workspace — all in one unified dev environment.
-
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
-![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
-💡 *Built because Jira is for PMs. This one speaks engineer.*
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🔄 <a href="https://github.com/AdityaKumarBharadwaj/SkillSwap">SkillSwap — Skill Exchange Platform</a></h3>
+### 🔄 [SkillSwap](https://github.com/AdityaKumarBharadwaj/SkillSwap)
+Community platform where neighbors trade skills using **Time Credits** instead of money. MERN stack with JWT auth.
 
-> A community-driven platform where neighbors trade skills using **Time Credits** instead of money.
-
-Give 1 hour of help → earn 1 Time Credit to spend later. Full MERN stack with JWT auth, protected routes, skill listings by category and location, and a real-time community feed.
-
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
-
-💡 *"Time is the new currency." — Built around that idea.*
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<h3>🤝 <a href="https://github.com/AdityaKumarBharadwaj/Saahaya">Saahaya — NGO Donation Platform</a></h3>
+### 🤝 [Saahaya](https://github.com/AdityaKumarBharadwaj/Saahaya)
+NGO donation platform with Razorpay payments, auto-generated 80G tax receipts, and an admin verification workflow.
 
-> *सहाय — Sanskrit for "help". A full-stack platform connecting verified NGOs with donors across India.*
-
-Secure Razorpay payments (UPI, Cards, NetBanking), auto-generated 80G tax receipts as PDFs, admin NGO verification workflow, role-based access (Donor / NGO / Admin), Cloudinary document storage, and real-time impact tracking. Atomic receipt number generation ensures no race conditions under load.
-
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Razorpay](https://img.shields.io/badge/-Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=3395FF)
-![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
-
-💡 *India has 3.3M NGOs. Most donors can't verify a single one. Saahaya fixes that.*
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Razorpay](https://img.shields.io/badge/-Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=3395FF)
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🔧 <a href="https://github.com/AdityaKumarBharadwaj/esim-tool-manager">eSim Tool Manager — CLI Dependency Tool</a></h3>
+### 🔧 [eSim Tool Manager](https://github.com/AdityaKumarBharadwaj/esim-tool-manager)
+Python CLI that checks, installs, and manages dependencies for eSim (FOSSEE, IIT Bombay), with dry-run mode and CI-friendly exit codes.
 
-> A Python CLI that checks, installs, and manages dependencies for eSim (FOSSEE, IIT Bombay's open-source EDA tool).
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-Detects installed vs missing packages, compares versions against minimum requirements, auto-installs via apt & pip, dry-run mode, timestamped logs, and CI-compatible exit codes. Config-driven — no code changes needed to add new tools.
+</td>
+</tr>
+</table>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![pytest](https://img.shields.io/badge/-pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+---
 
-💡 *Born from an hour lost to a silent ngspice crash. Built so others don't lose that hour.*
+## 🌍 Open Source Contributions
 
+<div align="center">
+
+<a href="https://github.com/AdityaKumarBharadwaj?tab=achievements&achievement=pull-shark">
+<img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="64" alt="Pull Shark"/>
+</a>
+<br/>
+<sub><b>Pull Shark</b> · GitHub achievement for merged pull requests</sub>
+
+</div>
+
+<br/>
+
+| Project | Contribution | Pull Request | Status |
+|:--------|:-------------|:-------------|:------:|
+| [**InternHack-community**](https://github.com/Sachinchaurasiya360/InternHack-community) | Replaced server-side `multer` uploads with direct client-to-S3 uploads using pre-signed URLs, removing the server memory bottleneck and cutting upload bandwidth | [**#310 →**](https://github.com/Sachinchaurasiya360/InternHack-community/pull/310) | ![Merged](https://img.shields.io/badge/-Merged-8957E5?style=flat-square&logo=git&logoColor=white) |
+| [**OPSCORD**](https://github.com/probably-ABHINAV/OPSCORD) | Designed and built a custom industrial-themed 404 page for the Next.js app with a terminal-style error panel, responsive UI, and dashboard navigation | [**#44 →**](https://github.com/probably-ABHINAV/OPSCORD/pull/44) | ![Merged](https://img.shields.io/badge/-Merged-8957E5?style=flat-square&logo=git&logoColor=white) |
+
+<div align="center">
+
+[🔍 View all my merged pull requests](https://github.com/pulls?q=is%3Apr+author%3AAdityaKumarBharadwaj+is%3Amerged+-user%3AAdityaKumarBharadwaj)
+
+</div>
+
+---
+
+## 🏆 Certifications
+
+<div align="center">
+
+![Total](https://img.shields.io/badge/Total%20Certifications-5-58A6FF?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![NPTEL](https://img.shields.io/badge/NPTEL-2-C0392B?style=for-the-badge)
+
+<sub>👆 Click any AWS certificate to open its official validation page</sub>
+
+</div>
+
+<br/>
+
+### ☁️ AWS Certifications
+
+<table align="center">
+<tr>
+<td align="center" width="33%" valign="top">
+<a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/c47bc10b39c0407cb5918531e24c88d1">
+<img src="./assets/certifications/aws-certified-solutions-architect-associate.png" width="300" alt="AWS Certified Solutions Architect Associate"/>
+</a>
+<br/>
+<b>Solutions Architect – Associate</b>
+<br/>
+<sub>Issued Apr 2026 · Valid till Apr 2029</sub>
+<br/>
+<a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/c47bc10b39c0407cb5918531e24c88d1"><img src="https://img.shields.io/badge/Verify-Credential-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" alt="Verify"/></a>
+</td>
+<td align="center" width="33%" valign="top">
+<a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/2330e60b517c44ff93cdb4defc665d9b">
+<img src="./assets/certifications/aws-certified-ai-practitioner.png" width="300" alt="AWS Certified AI Practitioner"/>
+</a>
+<br/>
+<b>AI Practitioner</b>
+<br/>
+<sub>Issued Oct 2026 · Valid till Oct 2029</sub>
+<br/>
+<a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/2330e60b517c44ff93cdb4defc665d9b"><img src="https://img.shields.io/badge/Verify-Credential-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" alt="Verify"/></a>
+</td>
+<td align="center" width="33%" valign="top">
+<a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/41dd75962c784a7a9a34e43b8bab7128">
+<img src="./assets/certifications/aws-certified-machine-learning-engineer-associate.png" width="300" alt="AWS Certified Machine Learning Engineer Associate"/>
+</a>
+<br/>
+<b>Machine Learning Engineer – Associate</b>
+<br/>
+<sub>Issued Oct 2026 · Valid till Oct 2029</sub>
+<br/>
+<a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/41dd75962c784a7a9a34e43b8bab7128"><img src="https://img.shields.io/badge/Verify-Credential-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" alt="Verify"/></a>
+</td>
+</tr>
+</table>
+
+### 🎓 NPTEL Certifications · Elite · Top 5%
+
+<table align="center">
+<tr>
+<td align="center" width="50%" valign="top">
+<img src="./assets/certifications/nptel-distributed-computing.jpg" width="420" alt="NPTEL - Cloud Computing and Distributed Systems"/>
+<br/>
+<sub><b>Cloud Computing and Distributed Systems</b> · IIT Kanpur · 88%</sub>
+</td>
+<td align="center" width="50%" valign="top">
+<img src="./assets/certifications/nptel-introduction-to-iot.jpg" width="420" alt="NPTEL - Introduction to Internet of Things"/>
+<br/>
+<sub><b>Introduction to Internet of Things</b> · IIT Kharagpur · 93%</sub>
 </td>
 </tr>
 </table>
@@ -179,7 +246,7 @@ Detects installed vs missing packages, compares versions against minimum require
 
 ---
 
-## 🏆 Achievements
+## 🏅 Achievements
 
 <div align="center">
 
