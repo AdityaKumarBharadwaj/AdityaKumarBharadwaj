@@ -21,7 +21,7 @@ I'm a B.Tech Computer Science student at **VIT Bhopal University** who builds pr
 | | |
 |:--|:--|
 | 🎓 **Education** | B.Tech Computer Science, VIT Bhopal University |
-| 📍 **Location** | Bhopal, India 🇮🇳 |
+| 📍 **Location** | Ranchi, India 🇮🇳 |
 | 🎯 **Focus** | Full-Stack (MERN) · Machine Learning · Cloud |
 | 🌱 **Status** | Open to internships and collaborations |
 | 🌐 **Portfolio** | [adityakumar24.vercel.app](https://adityakumar24.vercel.app/) |
